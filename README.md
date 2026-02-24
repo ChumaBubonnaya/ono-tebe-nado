@@ -1,1 +1,1 @@
-https://github.com/ChumaBubonnaya/ono-tebe-nado#
+https://github.com/ChumaBubonnaya/ono-tebe-nado-fd
