@@ -1,9 +1,4 @@
 /*Начало шапки*/
-*,
-*::before,
-*::after {
-  outline: 1px solid red;
-}
 .header {
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
